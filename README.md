@@ -12,6 +12,9 @@ https://github.com/elarreglador
 ************************************
 ACERCA DE LA APLICACION
 ************************************
+
+![Imagen](https://github.com/elarreglador/Que-dia-va-a-ser/blob/main/SCREENSHOTS/Captura%20de%20pantalla%20de%202024-01-07%2014-25-05.png)
+
 Desarrolla un servidor y un cliente que se comunican mediante sockets UDP.
 Se pide el desarrollo de un cliente que solicite tres números (día, mes y año) al usuario
 por teclado. Después de esto, enviará una única cadena con la fecha al servidor, el cual le devolverá
